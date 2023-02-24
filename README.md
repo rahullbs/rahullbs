@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rahul
-- 👀 I’m interested in web app development with ML. 
-- 🌱 I’m currently working to strengthen backend and front-end web technologies. 
-- 💞️ I’m looking to collaborate on ML projects and Full stack application development. 
+- 👀 I’m interested in Cyber security and web app development. 
+- 🌱 I’m currently working to strengthen Cyber security foundation knowledge,backend and front-end web technologies. 
+- 💞️ I’m looking to collaborate on security related projects and Full stack application development. 
 
 
 <!---
